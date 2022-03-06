@@ -136,6 +136,8 @@ header .links ul li:not(:last-child) a {
   border-bottom: 1px solid rgb(180, 180, 180);
 }
 
+/*end*/
+
 .titel h2 {
   text-align: center;
   font-size: 95px;
