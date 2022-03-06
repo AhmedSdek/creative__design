@@ -47,6 +47,30 @@ header .container {
   align-items: center;
 }
 
+.ulll {
+  display: inline-block;
+}
+
+@media (max-width: 992px) {
+  .ulll {
+    display: none;
+  }
+}
+
+.ulll li {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 30px;
+  list-style: none;
+}
+
+.ulll li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 800;
+}
+
+
 header .logo {
   width: 140px;
   border-radius: 20px;
